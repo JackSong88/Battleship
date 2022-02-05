@@ -49,3 +49,13 @@
 
 ## How to run
 Run Battleship.py to start the game.
+
+## Previews
+
+![](preview/Preview1.jpg)
+
+![](preview/Preview2.jpg)
+
+![](preview/Preview3.jpg)
+
+
